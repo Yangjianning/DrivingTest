@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/02168aea0befa2b75e017d767f14b7ca4de2e13a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01c64ddf56c7fa805f4421c7cc7b833a3bdf968c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/72e27fb188a2b0385d46fe6e7aed66bc82b942e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80145e1bfd4f9ac2f843ce43d36b6deb28191d01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/bb9a8237dc153eedae8575c5e8f1b903752b897a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e38e4fae752975405e0c46810815cf17e1258756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/f0b873d6a71757970c3eb0404de6091f1a50cfbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd60795491dff96dde3681aa7a5ffaae345ce5a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/fe12d2bd046eeb91cfba3ee096d70109b562cb93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5ca72e80ca756a37a3966928883e7d3ee319ab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/3154f95ae24bf20b9a15289558f8c98cb77c7fa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd8ebf6a3e0debea60729ed1237a28c94a84a8e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/593a273a848abad7cb7e1286e3a510c1691a5924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d666e8ae905950f21232e7cf8a9e273fc9cd50c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/Android/NewSdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f4411e68ea6e5f9fd23591ae824cf50e621f17a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/f268b5d436bbea855ca6d41b1ee100e7cf3bc72a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29139a849ded832455d4e5bd40d858076fe1b7b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/06136b96360237bbf2434e843093197296d4d300/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1ce9eeb252d3a5af0230279abd034bee9e79b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b48248634bb818a4a05509d4962b9725b86cf74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0cb9de4950919846415f9c46cf7c238c2565721">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_28574e43d38aa91868623ea3434fbd2bf4501fe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/Android/NewSdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_468f6a81e0843a3dbee419b5ad5ae18bb4d5cab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yang/.android/build-cache/7f9210e505f07ccfd88582990c476ac9f89ae1d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yang/AndroidStudioProjects/AndroidLesson20170425/20170607/Drivingschool/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7083abcd46a9122fc6ff3a8de43d2a6466c814e/classes.dex" />
+    </item>
+
+</items>
